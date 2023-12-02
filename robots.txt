@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+sitemap: https://www.refu2448.store//sitemap.xml
